@@ -1,1 +1,1 @@
-console.log("A sample for git!")
+console.log("A sample for git! ")
